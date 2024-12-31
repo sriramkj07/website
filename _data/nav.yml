@@ -1,0 +1,6 @@
+- name: "About"
+  link: "/"
+- name: "Writing"
+  link: "/writing"
+- name: "Career"
+  link: "/career"
