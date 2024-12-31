@@ -1,6 +1,4 @@
----
-layout: default
----
+
 - name: "About"
   link: "/"
 - name: "Writing"
