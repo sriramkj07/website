@@ -4,6 +4,12 @@
 
 $accent: #FF0F00;
 $image-size: 85px;
+.profile-picture {
+    width: 150px;        // how wide the picture is
+    height: 150px;       // how tall the picture is
+    border-radius: 50%;  // makes it circular
+    float: right;        // puts it on the right side
+}
 
 /*
  * Build Variables, don't touch
