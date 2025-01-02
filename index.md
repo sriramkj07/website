@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-<img class="profile-picture" src="sriram.jpeg">
+
 ## About Me 
+<img class="profile-picture" src="sriram.jpeg">
+
 Hi there 👋
 
 I'm Sriram (Shhri - Rahhm), I build products, I cycle, I love reading books and have a great fondness for stand-up com(ics)edy. I currently build products at ServiceNow. 
