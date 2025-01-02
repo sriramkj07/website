@@ -2,7 +2,6 @@
 layout: default
 ---
 <img class="profile-picture" src="sriram.jpeg">
-
 ## About Me 
 Hi there 👋
 
