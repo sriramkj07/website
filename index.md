@@ -4,7 +4,7 @@ layout: default
 
 ## About Me 
 
-<img class="profile-picture" src="sriram.jpeg">
+<img class="profile-picture" src="sriram.jpeg" width="150px" height="150px">
 
 Hi there 👋
 
